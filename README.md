@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Priya24dhage
 - 👀 I’m Data Analyst  
 - 🌱 Python,Machine Learning,Tableau,SQL
-- 📫 How to reach me tinadhage24@gmail.com
+- 📫 How to reach me tinadhage24@gmail.com ,
+  8149309708
 
 <!---
 Priya24dhage/Priya24dhage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
