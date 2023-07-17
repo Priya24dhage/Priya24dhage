@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Priya24dhage
 - 👀 I’m Data Analyst  
 - 🌱 Python,Machine Learning,Tableau,SQL
-- 📫 How to reach me tinadhage24@gmail.com ,
+- 📫 How to reach me priyadhage600@gmail.com,
   8149309708
 
 <!---
